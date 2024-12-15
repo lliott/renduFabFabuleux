@@ -1,0 +1,3 @@
+﻿  JankenPon.cpp
+C:\Users\ellio\Desktop\JankenPon\JankenPon\JankenPon.cpp(128,1): warning C4715: 'DidHeWin': not all control paths return a value
+  JankenPon.vcxproj -> C:\Users\ellio\Desktop\JankenPon\x64\Debug\JankenPon.exe
