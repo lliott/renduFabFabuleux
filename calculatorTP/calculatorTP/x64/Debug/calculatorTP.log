@@ -1,0 +1,4 @@
+﻿  calculatorTP.cpp
+C:\Users\ellio\Desktop\calculatorTP\calculatorTP\calculatorTP.cpp(22,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ellio\Desktop\calculatorTP\calculatorTP\calculatorTP.cpp(104,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  calculatorTP.vcxproj -> C:\Users\ellio\Desktop\calculatorTP\x64\Debug\calculatorTP.exe
